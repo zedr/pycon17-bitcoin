@@ -29,7 +29,7 @@
 ---
 # What Python keyword is used to create generators?
 
- - generate
+ - gen
  - yield
  - weep
 
@@ -61,7 +61,9 @@
    - Crypto
    - Finance
  2. We will take unsafe shortcuts
- 3. First time I run this workshop! (be kind, be patient)
+ 3. A subset of Bitcoin, not all of it (e.g. no wallets)
+ 4. First time I run this workshop! (be kind, be patient)
+ 5. "Type along" style; diverge at your own risk!
 
 ---
 # Please
@@ -76,19 +78,21 @@
 # Radios
 
 ---
-# Number stations
-
----
 # Start coding: main.py
 
 ---
 # A simple repl
 
 ---
+# Networking
+
+ - Broadcast addresses
+
+---
 # asyncio
 
+ - Protocols
  - The event loop
- - async/await
 
 ---
 # event loops
@@ -97,11 +101,96 @@
 # Act 2: asymmetric encryption
 
 ---
-# Radio killed the video star
+# Number stations
+
+![](https:///www.youtube.com/embed/QnXPqUU6fI0?t=53)
 
 ---
-# Layered view
+
+ - Sharing a secret
+    - with padlocks
+    - or with one padlock
+
+---
+# Public key cryptography
+
+ - what it is
+ - RSA
+
+---
+# Implementing a RSA-like cypher
+
+ - start with a prime number
+ - generate prime numbers
+ - implement extended euclidean algorithm
+ - implement multiplicative inverse
+ - define P, Q, CONSTANT, MODULUS, PRIVATE_KEY, PUBLIC_KEY
+ - implement enc single char
+ - implement enc string
+ - prime factorisation
+    - factoring very large numbers is very hard
+    - there is only *one* set of prime factors for any number
+
+---
+# Layered view (Satoshi client)
+
+ Validating transactions; Managing blockchain, mempool, peers  (Consensus and Policy code)
+                   | 
+      Scripting engine / Signatures (Consensus code)
+                   | 
+             Network layer  (P2P code) 
+                   | 
+             P2P Messages
+
+https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
+
+---
+# Layered view (simple)
 
  - Protocol
  - Network
  - Carrier
+
+---
+# Act 3: Transactions
+
+---
+# Transaction fees
+ - A tx fee paid is the difference between the inputs and the outputs
+
+---
+# Wallets
+
+ - We're not using them.
+
+---
+# Act 4: The Blockchain
+
+---
+# anatomy of a block
+
+ - First transaction must be coinbase (i.e. only 1 input), the rest must not be.
+
+---
+# Initial Block Download
+
+Once a new node joins the network, its first order of business is to **download**
+and **validate** the entire blockchain.
+
+---
+# Act ?: proof of work
+
+ - Why?
+ - HashCash
+
+---
+# Proof of work
+
+ - Hard to produce
+ - Selectable amount of work
+ - Easily verifiable
+
+---
+# Consensus
+
+The longest valid chain is the canonical one.
