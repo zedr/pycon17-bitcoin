@@ -103,7 +103,7 @@
 ---
 # Number stations
 
-![](https://www.youtube.com/watch?v=bqUX0tE6LhA)
+![](https://www.youtube.com/embed/bqUX0tE6LhA)
 
 ---
 
