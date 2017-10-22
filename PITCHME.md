@@ -74,23 +74,23 @@ Download the file and craic on.
 ---
 ## Who invented Bitcoin?
 
- 1. Al Gore
- 2. Satoshi Nakamoto
- 3. Ryuichi Sakamoto
+ * Al Gore |
+ * Satoshi Nakamoto |
+ * Ryuichi Sakamoto |
 
 ---
 ## What is __*fiat*__ currency?
 
- 1. Money you pay to "fix it again"
- 2. Money based on the Gold Standard
- 3. Money for nothing
+ * Money you pay to "fix it again" |
+ * Money based on the Gold Standard |
+ * Money for nothing |
 
 ---
 ## What Python keyword is used to create generators?
 
- - `gen`
- - `yield`
- - `weep`
+ * `gen` |
+ * `yield` |
+ * `weep` |
 
 ---
 
