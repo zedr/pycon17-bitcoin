@@ -329,7 +329,7 @@ Given a number, its multiplicative inverse is what you multiply to get 1, i.e.
 ## Two key facts
 
  - Factoring very large numbers is __*very*__ hard
- - There is only __*one*__ set of prime factors for any number
+ - There is only __*one*__ (unique) set of prime factors for any number
 
 ---
 ## Implementing a RSA-like cypher
