@@ -42,9 +42,9 @@
 # Brief intro
 ## Your host
 
- - My name is __*Rigel*__ |
- - My Github URL is https://github.com/zedr |
- - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala |
+ - My name is __*Rigel*__
+ - My Github URL is https://github.com/zedr
+ - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
 
 ---
 # Goals
