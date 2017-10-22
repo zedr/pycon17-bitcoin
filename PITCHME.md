@@ -1,6 +1,6 @@
 ---
-## Welcome!
-### Checklist
+## Write your own Bitcoin clone in Python
+### But first, make your self at home...
 
  - Python 3 installed:
    - Windows: use the installer
@@ -23,6 +23,12 @@
    * Member of the Blockchain Association of Ireland
  - My Github URL is https://github.com/zedr
  - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
+
+---
+# Welcome!
+
+ > "I had to write all the code before I could convince myself that I could
+ > solve every problem", the author(s) of Bitcoin
 
 ---
 ## Goals
@@ -87,6 +93,28 @@ Download the file and craic on.
 ---
 
 ![](assets/winner.jpg)
+
+---
+## What is money?
+
+ - A store of value
+   - Can be reliably stored and retrieved
+ - A medium of exchange
+   - Intermediation, avoid bartering
+ - A unit of account
+   - Used to measure the value of things
+ - A standard of deferred payment
+   - Debt is key to our financial system
+
+---
+### No, really, what is money?
+
+ - And where does its value come from?
+   - Scarcity? (e.g. gold)
+   - Labor? What is gained exactly?
+   - Debt?
+
+ - What stops up from creating our own money?
 
 ---
 # Act 1: the peer-to-peer network
