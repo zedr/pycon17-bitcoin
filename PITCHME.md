@@ -308,6 +308,11 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
  - OR, Alice encrypts the fingerprint of the message (signs it)
 
 ---
+### Let's roll our own!
+
+![](assets/rolled.png)
+
+---
 ### Implementing a RSA-like cypher
 
  - start with a prime number
