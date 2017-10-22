@@ -98,13 +98,13 @@ Download the file and craic on.
  - Anybody with a full-duplex radio system and an antenna can join the conversation
  - A radio tuner is necessary to tune into a specific frequency (3kHz - 300GHz)
 
-![](assets/cb1.jpg)
-
----
 
 ![](assets/radiolondra.jpg)
 
 ---
+## CB - Citizens band radio
+
+Band D (~27MHz)
 
 ![](assets/cb2.jpg)
 
