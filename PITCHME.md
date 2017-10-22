@@ -313,30 +313,37 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
 ![](assets/rolled.png)
 
 ---
-### Implementing a RSA-like cypher
-
- - start with a prime number
- - generate prime numbers
- - implement extended euclidean algorithm
- - implement multiplicative inverse
- - define P, Q, CONSTANT, MODULUS, PRIVATE_KEY, PUBLIC_KEY
- - implement enc single char
- - implement enc string
- - prime factorisation
-    - factoring very large numbers is very hard
-    - there is only *one* set of prime factors for any number
-
----
 ### Extended Eucliedean algorithm
 Finds the greatest common denominator of two integers, by repeatedly dividing
 by the remainder until the remainder is zero. It also returns the coefficients 
-of Bézout's identity, so that `ax + by = gcd(a, b)`.
+of Bézout's identity, so that 
+
+`ax + by = gcd(a, b)`.
 
 ## Multiplicative inverse
 Given a number, its multiplicative inverse is what you multiply to get 1, i.e.
+
 `8 * X = 1`.
 
 ---
+## Two key facts
+
+ - Factoring very large numbers is __*very*__ hard
+ - There is only __*one*__ set of prime factors for any number
+
+---
+## Implementing a RSA-like cypher
+
+Please don't use this anywhere else.
+
+ - generate prime numbers
+ - pick one (2 < x < 1000)
+ - implement extended euclidean algorithm
+ - implement multiplicative inverse
+ - define P, Q, CONSTANT, MODULUS, PRIVATE_KEY, PUBLIC_KEY
+
+---
+
 # Encryption and decryption
 
 ---
