@@ -243,8 +243,10 @@ Remember: coroutines are really just fancy generator functions.
 ---
 # Act 2: asymmetric encryption
 ## How to share a secret between far away strangers?
+ 
+ > Privacy is the power to selectively reveal oneself to the world
 
-
+__*Eric Hughes*__, A Cypherpunk's Manifesto
 
 ---
 # Plan A: use a shared secret key
