@@ -14,6 +14,13 @@ Make your self at home...
 
 <style> .slides:first-child { font-size: 90% !important; } </style>
 
+---
+## Welcome to the workshop!
+
+ > "I had to write all the code before I could convince myself that I could
+ > solve every problem"
+
+__*The author of Bitcoin.*__
 
 ---
 ## Your host
@@ -24,14 +31,6 @@ Make your self at home...
    * Member of the Blockchain Association of Ireland
  - My Github URL is https://github.com/zedr
  - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
-
----
-## Welcome to the workshop!
-
- > "I had to write all the code before I could convince myself that I could
- > solve every problem"
-
-__*The author of Bitcoin.*__
 
 ---
 ## Goals
