@@ -119,6 +119,14 @@ Download the file and craic on.
  - What stops up from creating our own money? ;) |
 
 ---
+ > We need to solve three functional problems
+ > 1. How to exchange information anonymously between a disconnected group of people
+ > 2. How to create authentic identities that can collect credit
+ > 3. How to send information directly from one such identity to another, across any distance, in full security
+
+__*Pieter Hintjens*__, "Hacking the Edges"
+
+---
 ## What do we need?
 
  - One or more computers |
@@ -129,13 +137,10 @@ Download the file and craic on.
 ---
 # Act 1: the peer-to-peer network
 
----
- > We need to solve three functional problems
- > 1. How to exchange information anonymously between a disconnected group of people
- > 2. How to create authentic identities that can collect credit
- > 3. How to send information directly from one such identity to another, across any distance, in full security
+ > Cypherpunks write code. (...) We know that software can't be destroyed
+ > and that a widely dispersed system can't be shut down. 
 
-__*Pieter Hintjens*__, "Hacking the Edges"
+__*Eric Hughes*__, A Cypherpunk's Manifesto
 
 ---
 ## Radios
