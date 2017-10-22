@@ -59,8 +59,7 @@
 ## How it will work
 
  - Divided in __*4 Acts*__
- - Start from scratch
- - In each Act we will build a component
+ - We'll start from scratch, __nada__, nothing
  - 10 minute break between each Act
 
 ---
