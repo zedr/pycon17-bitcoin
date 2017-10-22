@@ -1,2 +1,2 @@
 theme : black
-footnote : "<span style='font-size: 150%'>https://tinyurl.com/pycoin-master</span>"
+footnote : "<a href='https://tinyurl.com/pycoin-master' style='font-size: 150%'>https://tinyurl.com/pycoin-master</a>"
