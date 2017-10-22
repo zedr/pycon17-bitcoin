@@ -257,11 +257,6 @@ Remember: coroutines are really just fancy generator functions.
 ![](https://www.youtube.com/embed/ryKvsB0uzvo)
 
 ---
- - Sharing a secret
-    - with padlocks
-    - or with one padlock
-
----
 # Plan B: use two personal secret keys
 
  - Double padlock
