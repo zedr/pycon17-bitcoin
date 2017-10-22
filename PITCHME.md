@@ -10,7 +10,6 @@
      * add it to your user's %PATH%
    - Try running `python3 -m "this"`
  - Use an editor you're comfortable with (e.g. PyCharm)
- - Optional: get `git` (it will make life easier)
 
 <style> .slides:first-child { font-size: 90% !important; } </style>
 
