@@ -39,7 +39,6 @@
  - `weep`
 
 ---
-# Brief intro
 ## Your host
 
  - My name is __*Rigel*__
@@ -50,31 +49,40 @@
  - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
 
 ---
-# Goals
+## Goals
 
  1. Have fun
  2. Build our own cryptocurrency
  3. Be amazed
 
 ---
-# How it will work
+## How it will work
 
- - Divided in Acts
+ - Divided in __*4 Acts*__
  - Start from scratch
  - In each Act we will build a component
  - 10 minute break between each Act
 
 ---
+## If you get stuck
+
+Visit the URL in the footnote:
+
+https://tinyurl.com/pycoin-master
+
+Download the file and craic on.
+
+---
 # Caveats
 
+ 0. First time I run this workshop!
  1. Not an expert in any of these fields:
    - ICOs
    - Crypto
    - Finance
  2. We will take unsafe shortcuts
  3. A subset of Bitcoin, not all of it (e.g. no wallets)
- 4. First time I run this workshop! (be kind, be patient)
- 5. "Type along" style; diverge at your own risk!
+ 4. "Type along" style; diverge at your own risk!
 
 ---
 # Please
