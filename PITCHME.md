@@ -276,7 +276,7 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
  - Projected to top $4 Trillion in 2020
 
 ---
-![](asserts/cert.png)
+![](assets/cert.png)
 
 ---
 ## Basic concepts
