@@ -42,9 +42,9 @@ __*The author of Bitcoin.*__
 ---
 ## How it will work
 
- - Divided in __*4 Acts*__
+ - Divided in __*5 Acts*__
  - We'll start from zero, __nada__, nothing
- - 10 minute break between each Act
+ - We'll take short breaks along the way
 
 ---
 ## If you get stuck
@@ -386,7 +386,7 @@ Once a new node joins the network, its first order of business is to **download*
 and **validate** the entire blockchain.
 
 ---
-# Act 5: proof of work
+# Final Act : Proof of work
 
  > The supply of money should rise at a constant rate
 
