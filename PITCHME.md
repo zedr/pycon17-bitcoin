@@ -121,13 +121,17 @@ Download the file and craic on.
 ---
 ## What do we need?
 
- - A computer |
- - A network |
- - A protocol |
+ - One or more computers |
+ - A communication network |
+ - A common protocol |
  - ... and maybe something else... |
 
 ---
 # Act 1: the peer-to-peer network
+
+ > What is the Internet? A big stack of protocols.
+
+Pieter Hintjens
 
 ---
 ## Radios
@@ -135,7 +139,6 @@ Download the file and craic on.
  - Information transmitted and received through space using eletromagnetic energy
  - Anybody with a full-duplex radio system and an antenna can join the conversation
  - A radio tuner is necessary to tune into a specific frequency (3kHz - 300GHz)
-
 
 ![](assets/radiolondra.jpg)
 
@@ -146,6 +149,12 @@ In Ireland: Band D (~27MHz)
 
 ![](assets/cb2.jpg)
 
+---
+## We need something similar...
+
+ - Receive/transmit data using raw TCP/IP (the ether)
+ - A common client (radio system)
+ - A common protocol (e.g. frequency, language, etc.)
 
 ---
 ## Let's start coding: main.py
