@@ -30,7 +30,7 @@
  > "I had to write all the code before I could convince myself that I could
  > solve every problem"
 
- The author of Bitcoin.
+__*The author of Bitcoin.*__
 
 ---
 ## Goals
