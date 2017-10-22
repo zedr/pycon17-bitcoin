@@ -200,7 +200,7 @@ Mask:255.255.255.0
  > 
 
 ---
-# The event loops
+# The event loop
 
  - The central execution device provided by asyncio.
  - Provides facilities for:
@@ -226,6 +226,16 @@ loop.close()
 ```
 
 ---
+## Let's implement it
+
+Two coroutines:
+
+ - One for the REPL
+ - One for the Network handler
+
+Remember: coroutines are really just fancy generator functions.
+
+---
 # Act 2: asymmetric encryption
 
 ---
@@ -233,6 +243,12 @@ loop.close()
 
 ---
 # One-time pads
+
+![](assets/otp.jpg)
+
+---
+
+![](assets/otp2.png)
 
 ---
 # Number stations
@@ -255,7 +271,7 @@ loop.close()
  - RSA
 
 ---
-# Implementing a RSA-like cypher
+### Implementing a RSA-like cypher
 
  - start with a prime number
  - generate prime numbers
@@ -267,6 +283,9 @@ loop.close()
  - prime factorisation
     - factoring very large numbers is very hard
     - there is only *one* set of prime factors for any number
+
+---
+#
 
 ---
 # Encryption and decryption
