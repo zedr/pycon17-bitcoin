@@ -116,7 +116,7 @@ Download the file and craic on.
    - Labor? What is gained exactly?
    - Debt?
 
- - What stops up from creating our own money?
+ - What stops up from creating our own money? ;) |
 
 ---
 # Act 1: the peer-to-peer network
