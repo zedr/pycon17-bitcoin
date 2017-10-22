@@ -292,10 +292,14 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
  - Alice encrypts a message with her private key
  - Anyone with her public key can read it
 
+---
+
 ## Basic concepts (3)
 
  - Alice encrypts a message with Bob's public key
  - Only Bob can read it
+
+---
 
 ## Basic concepts (4)
 
