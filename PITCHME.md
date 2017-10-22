@@ -14,24 +14,6 @@
 <style> .slides:first-child { font-size: 90% !important; } </style>
 
 ---
-# Quick Quiz
-## Win __*monetary*__ prizes!
-
----
-## Who invented Bitcoin?
-
- 1. Al Gore
- 2. Satoshi Nakamoto
- 3. Ryuichi Sakamoto
-
----
-## What is __*fiat*__ currency?
-
- 1. Money you pay to "fix it again"
- 2. Money based on the Gold Standard
- 3. Money for nothing
-
----
 ## What Python keyword is used to create generators?
 
  - `gen`
@@ -84,7 +66,27 @@ Download the file and craic on.
  4. "Type along" style; diverge at your own risk!
 
 ---
-## Please do ask questions, at any time
+# Quick Quiz
+## Win __*monetary*__ prizes!
+
+---
+## Who invented Bitcoin?
+
+ 1. Al Gore
+ 2. Satoshi Nakamoto
+ 3. Ryuichi Sakamoto
+
+---
+## What is __*fiat*__ currency?
+
+ 1. Money you pay to "fix it again"
+ 2. Money based on the Gold Standard
+ 3. Money for nothing
+
+---
+# Congraturations
+
+![](assets/winner.jpg)
 
 ---
 # Act 1: the peer-to-peer network
