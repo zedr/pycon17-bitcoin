@@ -197,11 +197,33 @@ Mask:255.255.255.0
 ---
 # asyncio
 
- - Protocols
- - The event loop
+ > 
 
 ---
-# event loops
+# The event loops
+
+ - The central execution device provided by asyncio.
+ - Provides facilities for:
+   - Registering, executing and cancelling delayed calls (timeouts).
+   - Creating client and server transports for various kinds of communication.
+
+---
+## Tiny example
+
+```python
+import asyncio
+
+async def f(uid):
+    await asyncio.sleep(uid ** 2)
+    print(uid)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(asyncio.gather(
+    f(1),
+    f(2)
+))
+loop.close()
+```
 
 ---
 # Act 2: asymmetric encryption
