@@ -119,6 +119,14 @@ Download the file and craic on.
  - What stops up from creating our own money? ;) |
 
 ---
+## What do we need?
+
+ - A computer |
+ - A network |
+ - A protocol |
+ - ... and maybe something else... |
+
+---
 # Act 1: the peer-to-peer network
 
 ---
