@@ -7,6 +7,7 @@
  - The python3 executable available in the terminal:
    - Windows: add it to your user's %PATH%
  - Use an editor you're comfortable with
+ - Optional: git (it will make life easier)
 
 ---
 # Quick Quiz
@@ -101,6 +102,12 @@
 # Act 2: asymmetric encryption
 
 ---
+# Symmetric encryption
+
+---
+# One-time pads
+
+---
 # Number stations
 
 ![](https://www.youtube.com/embed/ryKvsB0uzvo)
@@ -110,6 +117,9 @@
  - Sharing a secret
     - with padlocks
     - or with one padlock
+
+---
+# Symmetric encryption
 
 ---
 # Public key cryptography
@@ -132,14 +142,23 @@
     - there is only *one* set of prime factors for any number
 
 ---
+# Encryption and decryption
+
+---
+# Signatures
+
+---
+# Signing network messages
+
+---
 # Layered view (Satoshi client)
 
  Validating transactions; Managing blockchain, mempool, peers  (Consensus and Policy code)
-                   | 
+                   |
       Scripting engine / Signatures (Consensus code)
-                   | 
-             Network layer  (P2P code) 
-                   | 
+                   |
+             Network layer  (P2P code)
+                   |
              P2P Messages
 
 https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
@@ -154,17 +173,23 @@ https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
 ---
 # Act 3: Transactions
 
----
-# Transaction fees
- - A tx fee paid is the difference between the inputs and the outputs
+ - We won't cover:
+    - multiple inputs
+    - transaction fees
+    - wallets
 
----
-# Wallets
-
- - We're not using them.
+ - We will have Coinbase (mining rewards)
+ - We need multiple outputs (for Coinbase)
 
 ---
 # Act 4: The Blockchain
+
+---
+# Blocks
+
+    - Link to an ancestor block
+        - Except for the Genesis block
+    - one or more transactions
 
 ---
 # anatomy of a block
