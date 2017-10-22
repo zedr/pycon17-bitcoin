@@ -202,8 +202,6 @@ Mask:255.255.255.0
 ---
 # asyncio
 
- > 
-
 ---
 # The event loop
 
@@ -351,6 +349,8 @@ https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
 ---
 # Act 3: Transactions
 
+![](assets/abstract.png)
+
  - We won't cover:
     - multiple inputs
     - transaction fees
@@ -360,6 +360,9 @@ https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
  - We need multiple outputs (for Coinbase)
 
 ---
+![](assets/transactions.png)
+
+---
 # Act 4: The Blockchain
 
 ---
@@ -367,10 +370,12 @@ https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
 
     - Link to an ancestor block
         - Except for the Genesis block
-    - one or more transactions
+    - Holds one or more transactions
+
+![](assets/block.png)
 
 ---
-# anatomy of a block
+# Anatomy of a block
 
  - First transaction must be coinbase (i.e. only 1 input), the rest must not be.
 
