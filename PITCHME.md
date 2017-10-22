@@ -12,6 +12,8 @@
  - Use an editor you're comfortable with (e.g. PyCharm)
  - Optional: get `git` (it will make life easier)
 
+<style> * { font-size: 50%; } </style>
+
 ---
 # Quick Quiz
 ## Win **monetary** prizes!
