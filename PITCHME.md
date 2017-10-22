@@ -135,7 +135,7 @@ Download the file and craic on.
  > 2. How to create authentic identities that can collect credit
  > 3. How to send information directly from one such identity to another, across any distance, in full security
 
-__*Pieter Hintjens*__
+__*Pieter Hintjens*__, "Hacking the Edges"
 
 ---
 ## Radios
@@ -189,6 +189,10 @@ inet addr:192.168.0.115
 Bcast:192.168.0.255 
 Mask:255.255.255.0
 ```
+
+---
+
+![](assets/broadcast.png)
 
 ---
 # asyncio
