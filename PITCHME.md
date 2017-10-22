@@ -1,6 +1,7 @@
 ---
-## Write your own Bitcoin clone in Python
-### But first, make your self at home...
+### Write your own Bitcoin clone in Python
+
+Make your self at home...
 
  - Python 3 installed:
    - Windows: use the installer
