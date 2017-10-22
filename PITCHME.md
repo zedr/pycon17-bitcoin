@@ -157,7 +157,7 @@ In Ireland: Band D (~27MHz)
  - A common protocol (e.g. frequency, language, etc.)
 
 ---
-## Let's start coding: main.py
+## Let's start coding our radio: main.py
 
 ---
 ## A simple repl
@@ -167,9 +167,24 @@ In Ireland: Band D (~27MHz)
 ![](assets/repl.png)
 
 ---
-# Networking
+## Networking
+### Broadcasting messages
 
- - Broadcast addresses
+ - Recipents: anybody who understands the protocol
+
+---
+## Where to send our messages
+
+ - Open the terminal
+ - Type:
+    `ipconfig` on Windows
+    `ifconfig` on Linux/Mac OS
+
+```
+inet addr:192.168.0.115  
+Bcast:192.168.0.255 
+Mask:255.255.255.0
+```
 
 ---
 # asyncio
