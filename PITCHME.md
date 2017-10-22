@@ -333,14 +333,15 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
 ---
 # Layered view (Satoshi client)
 
- Validating transactions; Managing blockchain, mempool, peers  (Consensus and Policy code)
+```
+ Validating transactions; Managing blockchain, mempool, peers
                    |
       Scripting engine / Signatures (Consensus code)
                    |
              Network layer  (P2P code)
                    |
              P2P Messages
-
+```
 https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
 
 ---
