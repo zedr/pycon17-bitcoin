@@ -5,15 +5,11 @@
    - Windows: use the installer
    - Mac: `brew install python3`
  - The python3 executable available in the terminal:
-   - Windows users: add it to your user's %PATH%
+   - Windows users:
+     * add it to your user's %PATH%
+   - Try running `python3 -m "this"`
  - Use an editor you're comfortable with
  - Optional: git (it will make life easier)
-
-## Checklist
-
- - Open a terminal
- - Run `python3 -m "this"`
- 
 
 ---
 # Quick Quiz
