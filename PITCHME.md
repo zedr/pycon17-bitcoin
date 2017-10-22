@@ -16,7 +16,7 @@
 
 ---
 # Quick Quiz
-## Win **monetary** prizes!
+## <blink>Win **monetary** prizes!</blink>
 
 ---
 ## Who invented Bitcoin?
