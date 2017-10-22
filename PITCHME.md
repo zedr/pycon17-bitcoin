@@ -13,12 +13,6 @@
 
 <style> .slides:first-child { font-size: 90% !important; } </style>
 
----
-## What Python keyword is used to create generators?
-
- - `gen`
- - `yield`
- - `weep`
 
 ---
 ## Your host
@@ -84,7 +78,13 @@ Download the file and craic on.
  3. Money for nothing
 
 ---
-# Congraturations
+## What Python keyword is used to create generators?
+
+ - `gen`
+ - `yield`
+ - `weep`
+
+---
 
 ![](assets/winner.jpg)
 
@@ -93,6 +93,12 @@ Download the file and craic on.
 
 ---
 # Radios
+
+ - Information transmitted and received through space using eletromagnetic energy
+ - Anybody with a full-duplex radio system and an antenna can join the conversation
+ - A radio tuner is necessary to tune into a specific frequency (3kHz - 300GHz)
+
+![](assets/cb.jpg)
 
 ---
 # Start coding: main.py
