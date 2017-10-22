@@ -92,7 +92,7 @@ Download the file and craic on.
 # Act 1: the peer-to-peer network
 
 ---
-# Radios
+## Radios
 
  - Information transmitted and received through space using eletromagnetic energy
  - Anybody with a full-duplex radio system and an antenna can join the conversation
@@ -108,16 +108,22 @@ In Ireland: Band D (~27MHz)
 
 ![](assets/cb2.jpg)
 
+
 ---
-# Start coding: main.py
+## Let's start coding: main.py
 
 ---
 # A simple repl
+
+ - Read -> Eval -> Print -> Loop
+
+![](assets/repl.jpg)
 
 ---
 # Networking
 
  - Broadcast addresses
+
 
 ---
 # asyncio
