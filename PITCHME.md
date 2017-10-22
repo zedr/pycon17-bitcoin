@@ -137,8 +137,6 @@ __*Pieter Hintjens*__, "Hacking the Edges"
 ---
 # Act 1: the peer-to-peer network
 
- > Privacy is the power to selectively reveal oneself to the world
-
  > Cypherpunks write code. (...) We know that software can't be destroyed
  > and that a widely dispersed system can't be shut down. 
 
