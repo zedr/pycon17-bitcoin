@@ -362,8 +362,6 @@ https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
 ---
 # Act 4: The Blockchain
 
-
-
 ---
 # Blocks
 
@@ -383,10 +381,11 @@ Once a new node joins the network, its first order of business is to **download*
 and **validate** the entire blockchain.
 
 ---
-# Act ?: proof of work
+# Act 5: proof of work
 
- - Why?
- - HashCash
+ > The supply of money should rise at a constant rate
+
+__*Satoshi Nakamoto*__
 
 ---
 # Proof of work
