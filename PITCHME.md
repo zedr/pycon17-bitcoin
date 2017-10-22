@@ -59,7 +59,7 @@
 ## How it will work
 
  - Divided in __*4 Acts*__
- - We'll start from scratch, __nada__, nothing
+ - We'll start from zero, __nada__, nothing
  - 10 minute break between each Act
 
 ---
@@ -74,8 +74,8 @@ Download the file and craic on.
 ---
 # Caveats
 
- 0. First time I run this workshop!
- 1. Not an expert in any of these fields:
+ 0. First time I run this workshop! (__*yikes*__!)
+ 1. __*Not*__ an expert in any of these fields:
    - ICOs
    - Crypto
    - Finance
@@ -84,10 +84,7 @@ Download the file and craic on.
  4. "Type along" style; diverge at your own risk!
 
 ---
-# Please
-
- - Ask questions at any time
- - Use the cheat mode to catch up
+## Please do ask questions, at any time
 
 ---
 # Act 1: the peer-to-peer network
