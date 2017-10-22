@@ -104,7 +104,7 @@ Download the file and craic on.
 ---
 ## CB - Citizens band radio
 
-Band D (~27MHz)
+In Ireland: Band D (~27MHz)
 
 ![](assets/cb2.jpg)
 
