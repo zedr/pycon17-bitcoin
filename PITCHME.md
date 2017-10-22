@@ -129,7 +129,11 @@ Download the file and craic on.
 ---
 # Act 1: the peer-to-peer network
 
- > What is the Internet? A big stack of protocols.
+ > A new decentralized Internet is a vast challenge
+ > We need to solve three functional problems
+ > 1. How to exchange information anonymously between a disconnected group of people
+ > 2. How to create authentic identities that can collect credit
+ > 3. How to send information directly from one such identity to another, across any distance, in full security
 
 Pieter Hintjens
 
