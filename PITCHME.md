@@ -26,7 +26,7 @@
  3. Ryuichi Sakamoto
 
 ---
-## What is fiat currency?
+## What is __*fiat*__ currency?
 
  1. Money you pay to "fix it again"
  2. Money based on the Gold Standard
@@ -41,8 +41,11 @@
 
 ---
 # Brief intro
+## Your host
 
- - Myself
+ My name is __*Rigel*__
+ My Github URL is https://github.com/zedr
+ Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
 
 ---
 # Goals
