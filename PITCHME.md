@@ -247,10 +247,10 @@ Remember: coroutines are really just fancy generator functions.
 __*Eric Hughes*__, A Cypherpunk's Manifesto
 
 ---
-# Plan A: use a shared secret key
+## Plan A: use a shared secret key
 
 ---
-## One-time pads
+### One-time pads
 
 ![](assets/otp.jpg)
 
@@ -259,18 +259,18 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
 ![](assets/otp2.png)
 
 ---
-# Number stations
+### Number stations
 
 ![](https://www.youtube.com/embed/ryKvsB0uzvo)
 
 ---
-# Plan B: use two personal secret keys
+## Plan B: use two personal secret keys
 
  - Double padlock
 
 ---
-# Public key cryptography
-## AKA Plan C: public and private keys
+### Public key cryptography
+### AKA Plan C: public and private keys
 
  - Makes e-commerce a $1.95 Trillion industry
  - Projected to top $4 Trillion in 2020
