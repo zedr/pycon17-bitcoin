@@ -237,12 +237,13 @@ Remember: coroutines are really just fancy generator functions.
 
 ---
 # Act 2: asymmetric encryption
+## How to share a secret between far away strangers?
 
 ---
-# Symmetric encryption
+# Plan A: use a shared secret key
 
 ---
-# One-time pads
+## One-time pads
 
 ![](assets/otp.jpg)
 
@@ -256,19 +257,24 @@ Remember: coroutines are really just fancy generator functions.
 ![](https://www.youtube.com/embed/ryKvsB0uzvo)
 
 ---
-
  - Sharing a secret
     - with padlocks
     - or with one padlock
 
 ---
-# Symmetric encryption
+# Plan B: use two personal secret keys
+
+ - Double padlock
 
 ---
 # Public key cryptography
+## AKA Plan C: public and private keys
 
- - what it is
- - RSA
+ - Makes e-commerce a $1.95 Trillion
+ - Projected to top $4 Trillion
+
+---
+![](asserts/cert.png)
 
 ---
 ### Implementing a RSA-like cypher
