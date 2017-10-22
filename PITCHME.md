@@ -25,7 +25,7 @@
  - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
 
 ---
-# Welcome!
+## Welcome to the workshop!
 
  > "I had to write all the code before I could convince myself that I could
  > solve every problem"
