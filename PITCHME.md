@@ -43,6 +43,9 @@
 ## Your host
 
  - My name is __*Rigel*__
+   * I work as an Architect for Wipro Digital
+   * Co-founder of the Dublin Linux User Group
+   * Member of the Blockchain Association of Ireland
  - My Github URL is https://github.com/zedr
  - Feel free to connect on Linkedin: https://linkedin.com/in/rigeldiscala
 
