@@ -43,7 +43,7 @@
 
 Visit the URL in the footnote:
 
-https://tinyurl.com/pycoin-master
+https://tinyurl.com/pycoin-latest
 
 Download the file and craic on.
 
@@ -113,7 +113,7 @@ In Ireland: Band D (~27MHz)
 ## Let's start coding: main.py
 
 ---
-# A simple repl
+## A simple repl
 
  - Read -> Eval -> Print -> Loop
 
@@ -123,7 +123,6 @@ In Ireland: Band D (~27MHz)
 # Networking
 
  - Broadcast addresses
-
 
 ---
 # asyncio
