@@ -327,6 +327,16 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
     - there is only *one* set of prime factors for any number
 
 ---
+### Extended Eucliedean algorithm
+Finds the greatest common denominator of two integers, by repeatedly dividing
+by the remainder until the remainder is zero. It also returns the coefficients 
+of Bézout's identity, so that `ax + by = gcd(a, b)`.
+
+## Multiplicative inverse
+Given a number, its multiplicative inverse is what you multiply to get 1, i.e.
+`8 * X = 1`.
+
+---
 # Encryption and decryption
 
 ---
