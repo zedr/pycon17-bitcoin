@@ -12,7 +12,7 @@
  - Use an editor you're comfortable with (e.g. PyCharm)
  - Optional: get `git` (it will make life easier)
 
-<style> .present li { font-size: 90% !important; } </style>
+<style> .slides:first-child { font-size: 90% !important; } </style>
 
 ---
 # Quick Quiz
