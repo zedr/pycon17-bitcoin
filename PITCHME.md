@@ -1,6 +1,6 @@
 ---
-# Welcome!
-## Checklist
+## Welcome!
+### Checklist
 
  - Python 3 installed:
    - Windows: use the installer
@@ -14,24 +14,24 @@
 
 ---
 # Quick Quiz
-## Monetary prizes!
+## Win **monetary** prizes!
 
 ---
-# Who invented Bitcoin?
+## Who invented Bitcoin?
 
  1. Al Gore
  2. Satoshi Nakamoto
  3. Ryuichi Sakamoto
 
 ---
-# What is fiat currency?
+## What is fiat currency?
 
  1. Money you pay to "fix it again"
  2. Money based on the Gold Standard
  3. Money for nothing
 
 ---
-# What Python keyword is used to create generators?
+## What Python keyword is used to create generators?
 
  - `gen`
  - `yield`
