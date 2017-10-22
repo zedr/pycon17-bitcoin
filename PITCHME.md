@@ -5,11 +5,11 @@
  - Python 3 installed:
    - Windows: use the installer
    - Mac: `brew install python3`
- - The python3 executable available in the terminal:
+ - The `python3` executable available in the terminal:
    - Windows users:
      * add it to your user's %PATH%
    - Try running `python3 -m "this"`
- - Use an editor you're comfortable with
+ - Use an editor you're comfortable with (e.g. PyCharm)
  - Optional: git (it will make life easier)
 
 ---
