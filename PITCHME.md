@@ -117,7 +117,7 @@ In Ireland: Band D (~27MHz)
 
  - Read -> Eval -> Print -> Loop
 
-![](assets/repl.jpg)
+![](assets/repl.png)
 
 ---
 # Networking
