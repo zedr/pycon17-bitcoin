@@ -28,7 +28,9 @@
 # Welcome!
 
  > "I had to write all the code before I could convince myself that I could
- > solve every problem", the author(s) of Bitcoin
+ > solve every problem"
+
+ The author of Bitcoin.
 
 ---
 ## Goals
