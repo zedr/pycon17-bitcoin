@@ -265,11 +265,36 @@ Remember: coroutines are really just fancy generator functions.
 # Public key cryptography
 ## AKA Plan C: public and private keys
 
- - Makes e-commerce a $1.95 Trillion
- - Projected to top $4 Trillion
+ - Makes e-commerce a $1.95 Trillion industry
+ - Projected to top $4 Trillion in 2020
 
 ---
 ![](asserts/cert.png)
+
+---
+## Basic concepts
+### Each party has two keys:
+
+ - Public keys are shared with anyone
+ - Private keys are kept secret
+ - You can't deduce a private key from a public key
+
+---
+## Basic concepts (2)
+
+ - Alice encrypts a message with her private key
+ - Anyone with her public key can read it
+
+## Basic concepts (3)
+
+ - Alice encrypts a message with Bob's public key
+ - Only Bob can read it
+
+## Basic concepts (4)
+
+ - Alice wants to prove a message comes from her
+ - Alice encrypts the message using her public key
+ - OR, Alice encrypts the fingerprint of the message (signs it)
 
 ---
 ### Implementing a RSA-like cypher
@@ -284,9 +309,6 @@ Remember: coroutines are really just fancy generator functions.
  - prime factorisation
     - factoring very large numbers is very hard
     - there is only *one* set of prime factors for any number
-
----
-#
 
 ---
 # Encryption and decryption
