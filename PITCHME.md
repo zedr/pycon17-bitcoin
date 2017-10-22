@@ -1,5 +1,6 @@
 ---
-# Setup
+# Welcome!
+## Checklist
 
  - Python 3 installed:
    - Windows: use the installer
@@ -18,16 +19,16 @@
 ---
 # Who invented Bitcoin?
 
- - Al Gore
- - Satoshi Nakamoto
- - Ryuichi Sakamoto
+ 1. Al Gore |
+ 2. Satoshi Nakamoto |
+ 3. Ryuichi Sakamoto |
 
 ---
 # What is fiat currency?
 
- - Money you pay Tony to fix it again
- - Money based on the Gold Standard
- - Money created by banks
+ 1. Money you pay to `fix it again`
+ 2. Money based on the Gold Standard
+ 3. Money for nothing
 
 ---
 # What Python keyword is used to create generators?
