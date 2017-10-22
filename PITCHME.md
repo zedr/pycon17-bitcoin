@@ -88,9 +88,9 @@ Download the file and craic on.
 ---
 ## What Python keyword is used to create generators?
 
- - `gen` |
- - `yield` |
- - `weep` |
+ - gen |
+ - yield |
+ - weep |
 
 ---
 
